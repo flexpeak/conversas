@@ -1,0 +1,166 @@
+{
+    "conversas": [
+        {
+            "id": 1,
+            "nome": "João Silva",
+            "conversa": "Olá, bom dia",
+            "hora": "Agora"
+        },
+        {
+            "id": 2,
+            "nome": "Maria Lima",
+            "conversa": "Chegou sua encomenda",
+            "hora": "Há 10 minutos"
+        },
+        {
+            "id": 3,
+            "nome": "José Pereira",
+            "conversa": "Até mais tarde",
+            "hora": "18:19"
+        },
+        {
+            "id": 4,
+            "nome": "Ana Souza",
+            "conversa": "Estou ocupada agora, nos falamos depois",
+            "hora": "17:45"
+        },
+        {
+            "id": 5,
+            "nome": "Pedro Santos",
+            "conversa": "Obrigado",
+            "hora": "17:00"
+        },
+        {
+            "id": 6,
+            "nome": "Paulo Oliveira",
+            "conversa": "Reunião confirmada para amanhã",
+            "hora": "16:30"
+        },
+        {
+            "id": 7,
+            "nome": "Lucas Rodrigues",
+            "conversa": "Não estou disponível no momento. Te ligo mais tarde",
+            "hora": "16:00"
+        },
+        {
+            "id": 8,
+            "nome": "Luiza Martins",
+            "conversa": "Fico te devendo essa",
+            "hora": "15:00"
+        },
+        {
+            "id": 9,
+            "nome": "Carlos Almeida",
+            "conversa": "Ontem eu não pude ir",
+            "hora": "14:00"
+        },
+        {
+            "id": 10,
+            "nome": "Fernanda Alves",
+            "conversa": "Tudo bem?",
+            "hora": "13:00"
+        },
+        {
+            "id": 11,
+            "nome": "Gabriel Ferreira",
+            "conversa": "Mas não tem problema",
+            "hora": "12:00"
+        },
+        {
+            "id": 12,
+            "nome": "Rafael Gomes",
+            "conversa": "Pra ser sincero eu não sei",
+            "hora": "11:00"
+        },
+        {
+            "id": 13,
+            "nome": "Anderson Souza",
+            "conversa": "Tudo bem?",
+            "hora": "10:00"
+        },
+        {
+            "id": 14,
+            "nome": "Gustavo Oliveira",
+            "conversa": "Depois eu te ligo",
+            "hora": "09:00"
+        },
+        {
+            "id": 15,
+            "nome": "Bruna Martins",
+            "conversa": "Acordaaaaaa",
+            "hora": "08:00"
+        },
+        {
+            "id": 16,
+            "nome": "Eduardo Almeida",
+            "conversa": "Tudo bem?",
+            "hora": "Ontem"
+        },
+        {
+            "id": 17,
+            "nome": "Felipe Ferreira",
+            "conversa": "Falei com ele ontem",
+            "hora": "Ontem"
+        },
+        {
+            "id": 18,
+            "nome": "Márcia Gomes",
+            "conversa": "kkkkkk tá bom",
+            "hora": "Ontem"
+        },
+        {
+            "id": 19,
+            "nome": "Ricardo Souza",
+            "conversa": "Tudo bem?",
+            "hora": "Anteontem"
+        },
+        {
+            "id": 20,
+            "nome": "Rodrigo Oliveira",
+            "conversa": "Fala com ele depois, por favor",
+            "hora": "Anteontem"
+        },
+        {
+            "id": 21,
+            "nome": "Vitoria Martins",
+            "conversa": "Aquele esquema que te falei, lembra? Te ligo mais tarde",
+            "hora": "Anteontem"
+        },
+        {
+            "id": 22,
+            "nome": "Wagner Almeida",
+            "conversa": "Tudo bem?",
+            "hora": "Há 2 dias"
+        },
+        {
+            "id": 23,
+            "nome": "William Ferreira",
+            "conversa": "Obrigado",
+            "hora": "Há 2 dias"
+        },
+        {
+            "id": 24,
+            "nome": "Yuri Gomes",
+            "conversa": "Boa noite",
+            "hora": "Há 2 dias"
+        },
+        {
+            "id": 25,
+            "nome": "Zé Souza",
+            "conversa": "Tudo bem?",
+            "hora": "Há 3 dias"
+        },
+        {
+            "id": 26,
+            "nome": "João Silva",
+            "conversa": "Olá, bom dia",
+            "hora": "Há 3 dias"
+        },
+        {
+            "id": 27,
+            "nome": "Maria Lima",
+            "conversa": "Chegou sua encomenda",
+            "hora": "Há 3 dias"
+        }
+    ]
+}
